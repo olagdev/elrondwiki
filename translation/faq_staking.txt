@@ -1,0 +1,24 @@
+WHEN DO MY STAKING REWARDS FALL?
+The staking rewards are distributed every day at 16:30 UTC. (If your Staking Provider has these nodes chosen by the blockchain).
+
+I HAVE A TRANSACTION ERROR WHEN I WANT TO CLAIM MY REWARDS!
+Checked that you have enough to pay for the transaction (EGLD in your Available balance).
+
+I HAVE A TRANSACTION ERROR WHEN I WANT TO RESET MY REWARDS!
+Checked that you have enough to pay for the transaction (EGLD in your Available balance).
+
+HOW LONG IS THE STAKING?
+You can stay as long as you want.
+
+CAN WE RE-STAKE YOUR REWARDS EVEN IF THE POOL IS FULL?
+Yes, if your rewards go to the same pool (If your SP has enabled the option) where they were obtained. (Except for the legacy delegation where this is not possible).
+
+CAN I EARN MY REWARDS?
+Yes, you can accumulate your rewards for as long as you want.
+
+HOW LONG IS THE EXIT FROM THE STAKING?
+The exit lasts 10 days, during these 10 days you no longer receive any rewards because your EGLDs do not participate in securing the blockchain.
+
+AFTER 10 DAYS MY FUNDS ARE NOT RETURNED!
+After the 10 days you must go and finalize your exit by clicking on the button where you previously clicked to request the exit.
+
