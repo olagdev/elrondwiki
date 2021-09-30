@@ -1,0 +1,14 @@
+CONFIGURE MAIAR DEFI WALLET
+
+this tutorial I will teach you how to configure the Maiar Wallet extension!
+
+Download the extension (Compatible: Brave / Chrome / Edge): HERE.
+Added it to your browser & waited for it to launch.
+Once installed click on "Create new wallet".
+A pop-up appears, click on "Authorize" then "ok".
+Then we will indicate the words to you (Save these words well! Otherwise you will lose your funds if you forget).
+Once copied clicked on the option "I confirm I have written down and safely stores my secret phrase.".
+Indicate the words requested (this is done to ensure that you have kept your seed).
+Once done, create a password to unlock your wallet then click on "continue".
+
+Well done ! you have created your Maiar defi Wallet.
