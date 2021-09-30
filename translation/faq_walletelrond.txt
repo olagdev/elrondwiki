@@ -1,0 +1,8 @@
+IF I LOSE MY .JSON I LOSE MY WALLET ?
+No, you just need to recover with your seed.
+
+CAN I LINK MY EXISTING WALLET TO MY NEW LEDGER KEY ?
+Yes, you just have to configure your ledger with your 24 words from the seed of your elrond wallet.
+
+I CANNOT SIGN MY TRANSACTIONS!
+Have you activated contract data in the Elrond application on the Ledger ?
