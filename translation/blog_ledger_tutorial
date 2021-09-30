@@ -1,0 +1,25 @@
+You can safely store your EGLD by installing the Elrond EGLD app on your Ledger Nano S or Ledger Nano X device. We recommend that you use a hardware wallet to manage large amounts of EGLD.
+
+Before starting:
+Configure your Ledger device.
+Download the Ledger Live app.
+Upgrade your device to the latest firmware.
+Install the Elrond EGLD app on your Ledger:
+Here are the steps to install Elrond (EGLD) on your Ledger.
+Open the Ledger Live app.
+Click on the "Manager" section in the application.
+Connect and unlock your Ledger device.
+If prompted, authorize the manager on your device by pressing both buttons.
+In the Application Catalog, search for "Elrond".
+Click the "Install" button next to the Elrond application.
+Your Ledger device will display “Processing” as the app installs.
+Great, you did everything perfectly!
+Log into your Elrond wallet using the Ledger device:
+Make sure your Ledger device is connected to your computer.
+Log into your Ledger device.
+Go to the Elrond Network app and open it by pressing both buttons on your device.
+In your web browser, go to https://wallet.elrond.com.
+Select "Ledger" from the connection options.
+A "pop-up" window will inform you that your Ledger wishes to connect. Authorize it by clicking on "Connect"
+
+Well done ! your ledger is configured.
