@@ -14,6 +14,10 @@ The community =>
 Official announcements => 
 Various links =>
 Community Blog =>
+Others =>
+About =>
+News =>
+
 
 A little TIP? =>
 About =>
@@ -140,4 +144,10 @@ INFLUENCERS (EN) =>
 Below are the people who speak of Elrond. =>
 Follow => 
 
+FEES: 
+
+Fees =>
+This data is based on the price of EGLD at $ 200 =>
+transactions =>
+Is there a missing piece of data? contact us  =>
 
