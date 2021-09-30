@@ -1,3 +1,6 @@
+LEDGER TUTORIAL =>
+
+
 You can safely store your EGLD by installing the Elrond EGLD app on your Ledger Nano S or Ledger Nano X device. We recommend that you use a hardware wallet to manage large amounts of EGLD.
 
 Before starting:
