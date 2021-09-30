@@ -1,0 +1,35 @@
+MY APPLICATION IS FREEZED HOW TO DO IT ?
+You just have to recover your seed (Passphrase) in the settings, then try to detach the wallet (button in red at the bottom of the settings) if it works or not, uninstall the application & reinstall it there by entering your seed.
+
+IF I LOSE MY PHONE, WILL I ALSO LOSE MY FUNDS ?
+If you have lost your device, you can restore your account to a new device by returning your seed.
+
+I HAVE NOT RECEIVED MY STAKING REWARDS
+If the nodes your staking provider have not been chosen by the blockchain, you do not receive any rewards because this does not work for the security of the blockchain.
+
+I DON'T SEE MY FRIENDS ON THE APPLICATION
+Your friends must be visible (Check privacy settings) + Be active the last two days.
+
+CAN I CHANGE MY HEROTAG ?
+Once you've claimed your @herotag, you can't edit it anymore. Since the herotag uses Elrond Distributed Name Service (EDNS) and is registered on the blockchain.
+
+HOW MUCH MAY COST ?
+Maiar is free to download and use. However, the Elrond network has minimal fees (as low as $ 0.001 per transaction) associated with payments in order to ensure the security and speed of transactions.
+
+CAN I USE MY SEED MAIAR TO LOG IN TO THE MAIAR WEB EXTENSION ?
+Yes you can use your Maiar seed (Application) to connect to the Maiar Wallet extension. However, it is recommended for security to separate these wallets.
+
+CAN I USE MY SEED MAIAR TO SYNCHRONIZE IT WITH A LEDGER KEY ?
+Yes you can, but it is however recommended for security to separate these wallets.
+
+WHAT ARE BADGES USED FOR ?
+These are just badges for Maiar's adoption.
+
+IS THERE AN ADVANTAGE WHEN YOU LEVEL UP ?
+No, Currently there is no advantage leveled up.
+
+HOW WE DO FOR INCREASED ARE LEVELS ?
+Just use the app, make transactions, sponsored friends or members of his community.
+
+IS THERE AN ADVANTAGE OF SPONSORING FRIENDS OR MEMBERS ?
+YES, You can earn EGLD each time your referral uses the application (by making transactions) you have the details in the settings => Referral. These rewards are distributed every Monday.
