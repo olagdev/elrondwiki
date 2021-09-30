@@ -1,0 +1,17 @@
+HOW TO CONTRIBUTE TO ELROND WIKI
+
+Want to contribute to Elrond Wiki ? Here are the steps:
+
+Go to the login page
+Click on the connection, you will be redirected to SAYME.
+
+On SAYME you will only be asked for an Email, a password & to choose a free nickname.
+
+If you don't have an account, register (It's free).
+Once connected (2 validations for the first connection).
+Go to the "Write an article" page.
+Start writing your article.
+
+Think in detail about your topic, especially if it concerns a project presentation.
+
+Other than being able to write articles once logged in, you will have access to future services.
