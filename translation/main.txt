@@ -1,0 +1,49 @@
+MENU: 
+
+Last news =>
+Tutorials =>
+The strategies =>
+The fees =>
+The projects =>
+Frequent question =>
+Referral program => 
+Frequent question =>
+The tools => 
+The dictionary =>
+The community =>
+Official announcements => 
+Various links =>
+Community Blog =>
+
+A little TIP? =>
+About =>
+Log in =>
+
+My profile =>
+Write an article => 
+Settings =>
+A little TIP? => 
+Logout =>
+
+HOME: 
+
+Home => 
+EGLD in circulation =>
+EGLD in staking =>
+EGLD total issued =>
+Price EGLD => 
+
+Announcement =>
+Event =>
+No event :( =>
+last articles =>
+Click here =>
+Published by =>
+Read the article =>
+
+TIP MODAL:
+
+Tips are used to fund Elrond wiki. =>
+
+
+
