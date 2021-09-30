@@ -1,0 +1,55 @@
+How does the Maiar Referral Program work?
+
+The Referral Program has been created to reward the users of Maiar for doing what they were already doing - recommending Maiar to their families, friends and followers.
+There are a couple ways to earn crypto through the Maiar Referral Program:
+
+Referrers: you can invite your friends to install and join Maiar. You will earn a reward every time they purchase crypto in the app.
+Invitees: you can earn a one-time (cashback) reward if you purchase 200 USD or more worth of eGold. You need to use a valid referral code when you first create your account, in order to be eligible for this one-time (cashback) reward.
+
+How much can I earn?
+
+Referrers receive 100% of Maiar’s commissions on all purchases made by your referrals for one year following their registration, if your referrals buy eGold, and 50% of Maiar’s commissions for all other crypto (excluding eGold).
+As an invitee, you can get a one-time reward of the equivalent of 10 USD in eGold when you purchase 200 USD or more of eGold. The 200 USD threshold can be "unlocked" with a single purchase or multiple purchases.
+
+Maiar's commission is 0.5% on purchases made with a credit card or bank transfers. Thus, you are eligible for 0.5% of every purchase of eGold  your referrals make no matter how much they buy, for one year following their registration. 
+You are also eligible for 0.25% of every purchase of any other crypto besides eGold your referrals make for 1 year after they sign up.
+
+You may notice that the total purchase fees is higher than Maiar’s commission  because it includes additional payment processing fees, 
+including for example network fees for transferring crypto, fees charged by our third-party payment provider. 
+These fees are not eligible for this referral program.
+
+When do I get my rewards?
+All rewards are sent once a week. You can also check the Referral Rewards screen where there is a history of all rewards payments and your pending rewards. Once the rewards are sent, the pending rewards count will be reset to 0.
+
+Referral rewards are anonymous and say only that there’s a pending referral reward awaiting payout.
+
+How do I get my rewards?
+All rewards (cashback and referral) are sent in eGold and will be sent directly into the Maiar wallet address associated with your referral code/link. 
+
+The eGold to U.S. dollar exchange rate for each weekly rewards payment shall be the EGLD Coins to USDT exchange rate as reported by Coinmarketcap.com at 11:59pm UTC time on the day immediately preceding the payment date, 
+as determined by Maiar in good faith.
+
+How do I register with a referral link?
+Simply click on a referral link, enter your phone number and then click on the download link that will take you to the App Store or Google Play. After you install Maiar, you should see "Referral code applied" during the registration process.
+
+If you clicked on the link and did not see "Referral code applied" on the phone number entry screen, you will have to enter the referral code manually. Tap on "Have a referral code?" and apply the referral code or the invitation link there.
+
+A referral code looks like this: ma1are3d1x
+
+A referral link looks like this: https://get.maiar.com/referral/ma1are3d1x  
+
+You can use any of them.
+
+Who is eligible for the Referral Program?
+The Referral Program can only be applied to new accounts that used a referral code when they created the account. The referral code cannot be changed or added after the account was created. 
+
+The cashback reward offer expires 30 days after account creation if no purchase of eGold is made.
+
+What purchases qualify for the referral program?
+Only purchases made via MoonPay, Transak and Ramp in the Maiar app are eligible.
+
+The purchase of eGold, for the one-time cashback reward, must be made within 30 days of registration with a referral link. 
+
+Purchases for referral rewards must be made during the first year following the registration of those referred.
+
+The Terms & Conditions of the Referral Program can be found here as part of the User Agreement and Terms.
