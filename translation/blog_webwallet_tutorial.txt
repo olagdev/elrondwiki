@@ -1,0 +1,28 @@
+CREATE AN ELROND WEB WALLET
+
+Use the wallet to send, receive and store EGLD in a secure way. Includes automations for interacting with staking products and ecosystem pools.
+
+Create a new wallet:
+Go to https://wallet.elrond.com and carefully read the instructions provided.
+
+Click on: "Create wallet"
+
+Save your passphrase! Its very important.
+
+The words, numbered in sequence, are your passphrase. They are only displayed once on your screen and are not saved on any server or anywhere in the world. You only have one chance to save them - please do so now.
+
+Click on the "copied" button (two rectangles) then paste them into a text file. If your pets usually don't find important pieces of paper delicious, you can even write the words down.
+
+The next page is a test to see if you actually saved the passphrase. Enter the random words as shown and press enter when you have completed all the boxes.
+
+You are one step away from obtaining your keystore file. First, encrypt it with a password. Make sure it's the strong type, with 9 characters, at least one CAPITAL letter, one $ ymb @ l and numb3r.
+
+If you forget this password, you can get a new Keystore file with your passphrase. Remembering is always better.
+
+Congratulation ! , you have a new wallet! The associated Keystore file has been downloaded to where your browser saves files by default. The file has the actual wallet address as the default name, something like "erd… .json". You can rename it to "something.json" to make it easier to manage, if you want.
+
+Access the portfolio:
+
+Go to https://wallet.elrond.com/ and click on “Access existing” Make sure the access method “Keystore” is selected, click on Browse and locate your keystore file [erd1… .json ], then enter your password and click on "Access wallet".
+
+Well done ! You now have access to your web wallet!
