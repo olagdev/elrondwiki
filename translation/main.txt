@@ -44,6 +44,95 @@ Read the article =>
 TIP MODAL:
 
 Tips are used to fund Elrond wiki. =>
+Close =>
+
+FOOTER: 
+
+Project not affiliated with => 
+
+ME: 
+
+Website =>
+YOUR CONTRIBUTIONS => 
+title =>
+Etat =>
+Edit =>
+
+Verification in progress =>
+Your article has been rejected => 
+Your article has been accepted =>
+
+View => 
+Edit =>
+
+CREATE: 
+
+TO WRITE AN ARTICLE =>
+Articles for the community blog are checked before they are officially published. =>
+TITLE OF THE ARTICLE: =>
+CONTENT OF THE ARTICLE: =>
+HEAD IMAGE: =>
+SAVE =>
+Add an image (header) =>
+Your image should be 600px in width and 150px in height. Please indicate the entire link =>  
+Host your image => 
+
+INFORMATION =>
+To put in front of the title of your article =>
+[EDIT] = You are still editing the article. =>
+[GOOD] = You've finished your article, you ask for it to be verified. => 
+HEAD IMAGE TEMPLATE: => 
+Photoshop compatible =>
+Download => 
+
+AIE ! Oops one or more fields are empty. =>
+
+SETTINGS: 
+
+YOUR TWITTER: =>
+YOUR TELEGRAM: =>
+YOUR WEBSITE: =>
+YOUR HEROTAG: =>
+
+VISIBLE: => 
+YES => 
+NO => 
+
+Enter your username => 
+Indicate the entire link =>
+Indicate the entire herotag (ex: olagdev.elrond) =>
+
+CHANGE YOUR NAME: =>
+CHANGE YOUR BIO: =>
+
+Changed successfully! =>
+Error ! information is missing. =>
+
+Error! Too many characters. =>
+Error ! Not enough characters. =>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
