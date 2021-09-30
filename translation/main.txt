@@ -110,3 +110,34 @@ Error ! information is missing. =>
 
 Error! Too many characters. =>
 Error ! Not enough characters. =>
+
+SIDEBAR: 
+
+TUTORIAL =>
+Don't you understand how DEX (Maiar Exchange) works? =>
+click here => 
+
+ou can check if you are not dealing with a scam =>
+CHECK NOW => 
+
+BLOG: 
+
+Share =>
+
+STAKING EXPLORER: 
+
+Name =>
+NB Users => 
+NB Nodes =>
+Details =>
+
+COMMUNITY: 
+
+COMMUNITY =>
+Join the group =>
+
+INFLUENCERS (EN) =>
+Below are the people who speak of Elrond. =>
+Follow => 
+
+
