@@ -97,10 +97,15 @@ YOUR TWITTER: =>
 YOUR TELEGRAM: =>
 YOUR WEBSITE: =>
 YOUR HEROTAG: =>
+THEME COLOR: =>
+HIDE MY PROFILE: =>
 
 VISIBLE: => 
 YES => 
 NO => 
+
+Dark =>
+Clear =>
 
 Enter your username => 
 Indicate the entire link =>
