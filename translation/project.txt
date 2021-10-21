@@ -1,1 +1,26 @@
+ADD A PROJECT =>
+Projects are verified before being officially published. =>
 
+NAME OF THE PROJECT: =>
+PROJECT DESCRIPTION: =>
+YOUR LOGO: =>
+HEADER IMAGE: =>
+DISPLAYED THE WHITEPAPER: =>
+DISPLAYED THE TOKENOMICS: =>
+WEBSITE: =>
+DISPLAYED THE TELEGRAM: =>
+VIEW GITHUB: =>
+DOCUMENTATION: =>
+VIEW DOCUMENTATION: =>
+SAVE =>
+
+indicates the name of the project =>
+indicates the link of your logo =>
+Header with your logo =>
+Your image should be 600px in width and 150px in height. Please indicate the entire link => 
+indicates the link of your tokenomics =>
+indicates the link of your website =>
+indicates the link of the Twitter of the project =>
+indicates the link of the GitHub of the project =>
+indicates the telegram link => 
+indicates the link of the project documentation => 
