@@ -17,6 +17,7 @@ Community Blog =>
 Others =>
 About =>
 News =>
+Jobs => 
 
 
 A little TIP? =>
@@ -28,6 +29,9 @@ Write an article =>
 Settings =>
 A little TIP? => 
 Logout =>
+Add project =>
+Add a job =>
+Referral program =>
 
 HOME: 
 
