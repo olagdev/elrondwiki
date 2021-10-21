@@ -1,0 +1,13 @@
+ ADD A JOB =>
+ 
+ TITLE: =>
+ CONTENT: =>
+ TAGS: =>
+ CATEGORY: =>
+ 
+ Simple presentation =>
+ Project recruitment =>
+ 
+ Title of the presentation or job sought =>
+ Indicate tags to find yourself easily (Don't forget the commas between each word) =>
+ 
