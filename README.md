@@ -8,3 +8,5 @@ English Version by: Olagdev |  https://en.elrondwiki.com/
 Spanish Version by: Olagdev | https://es.elrondwiki.com/
 
 French Version by: Olagdev | https://fr.elrondwiki.com/
+
+Italian Version by: Olagdev | https://it.elrondwiki.com/
