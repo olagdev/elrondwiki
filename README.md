@@ -6,5 +6,5 @@ You have all the files to translate, Please bring a file with links to various d
 - [English Version:](https://en.elrondwiki.com/) by Olagdev 
 - [Spanish Version:](https://es.elrondwiki.com/) by Olagdev
 - [Italian Version:](https://it.elrondwiki.com/) by Olagdev
-- [Deutsche Version:](https://de.elrondwiki.com/) by Beosmo and Olagdev
+- [Deutsche Version:](https://de.elrondwiki.com/) by Beosmo Labs
 
