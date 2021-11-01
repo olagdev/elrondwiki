@@ -7,4 +7,4 @@ You have all the files to translate, Please bring a file with links to various d
 - [Spanish Version:](https://es.elrondwiki.com/) by Olagdev
 - [Italian Version:](https://it.elrondwiki.com/) by Olagdev
 - [Deutsche Version:](https://de.elrondwiki.com/) by Beosmo Labs
-
+- [Portuguese Version:](https://pt.elrondwiki.com/) by DavidScolduq and Olagdev
