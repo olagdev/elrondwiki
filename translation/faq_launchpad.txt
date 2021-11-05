@@ -1,0 +1,19 @@
+SHOULD MY EGLD BE STAKES?
+Yes, Elrond calculates the amount of delegated or staked EGLD for each EGLD address that has passed and passed KYC checks.
+
+DO WE PAY IN EGLD IF WE ARE NOT SELECTED? ?
+If you are drawn in the lottery, you pay the ticket in EGLD.
+
+CAN I PARTICIPATE WITH SEVERAL ADDRESSES?
+No, you can only participate with one address, 1 KYC = 1 Address.
+
+WHAT ARE THE LEVELS ?
+Each level will give the user the opportunity to purchase a maximum number of lottery tickets. The user can choose the number of lottery tickets to buy but he will not be able to buy more than the maximum allowed by the level allocated according to the amount of EGLD in staking or delegated.
+
+
+
+WHY DO A KYC ?
+You make an investment & the company raising the funds must justify the source of the funds obtained. It is a legal obligation in all countries of the world. (This is used to fight against money laundering).
+
+HOW LONG DOES KYC VALIDATION TAKE ?
+It all depends on the provider, in general it takes a few hours at most.
