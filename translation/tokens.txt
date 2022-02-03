@@ -1,0 +1,9 @@
+	
+NAME =>
+SYMBOL => 
+DETAILS =>
+
+Indicate the symbol of the token you want to search =>
+
+SEARCH RESULT =>
+Search for a token =>
